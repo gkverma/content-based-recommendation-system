@@ -34,7 +34,7 @@ If you dont see the Jupyter notebook rendering in github. Don't worry, It seems 
 ```
 git clone https://github.com/gkverma/content-based-recommendation-system.git
 
-cd my-project
+cd content-based-recommendation-system
 
 # Start working on the project
 ```
